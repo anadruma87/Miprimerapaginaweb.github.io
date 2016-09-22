@@ -1,0 +1,42 @@
+html,body {
+	font-family: "abierto + Sans ", sans-serif;
+	text-align: center;
+}
+
+.parrafo {
+	width: 80%;
+	height: 175px;
+	border-radius: 12px;
+	background-color: #eee;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.parrafo > p {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	margin-bottom: 
+	padding-top: 2%;
+	width: 90%;
+
+
+}
+
+.Unad {
+	width: 80%;
+	height: 30px;
+	border-radius: 20px;
+	background-color: #eee;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+
+
+
+
+
+
